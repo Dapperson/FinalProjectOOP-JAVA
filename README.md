@@ -1,4 +1,4 @@
-# FinalProjectPBO-JAVA
+# FinalProjectOOP-JAVA
 Projek Akhir Pemrograman Berorientasi Objek Kelompok NRSS - Program Aplikasi Peminjaman Buku Perpustakaan Menggunakan Java
 
 ![image](https://user-images.githubusercontent.com/91016078/175543081-582dfdef-4b20-4ff1-b956-dc314ca62796.png)
